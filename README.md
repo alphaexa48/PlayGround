@@ -16,3 +16,11 @@
 - 👤 [Explore the creator's projects](https://omgithub.com/alphaexa48).
 - 🌍 [Create with OMGithub](https://omgithub.com).
 <!-- omgithub:readme:end -->
+
+## DiceHub Super App
+
+Dokumentasi dan rencana pembangunan bot dice multi-fitur untuk Crypto.Games:
+
+- 📄 [DiceHub Super App — Dokumentasi & Rencana Pembangunan](docs/dicehub-super-app.md)
+
+> Tidak ada strategi yang mengalahkan house edge (0,8%). Proyek ini adalah alat eksekusi aturan, bukan penyedia sinyal atau jaminan profit.
